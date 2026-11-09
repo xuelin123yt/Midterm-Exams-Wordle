@@ -3,7 +3,8 @@ import os
 import pygame
 import requests
 
-API_BASE_URL = "http://127.0.0.1:8000"
+API_BASE_URL = "https://midterm-exams-wordle.onrender.com"
+#API_BASE_URL = "http://127.0.0.1:8000"
 
 COLOR_BG = (18, 18, 19)
 COLOR_TEXT = (255, 255, 255)
